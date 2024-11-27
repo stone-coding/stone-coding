@@ -25,8 +25,6 @@ I'm a master computer science student at Northeastern University. I have 2 years
 
 ## My Work Experience:
 
-## Work Experience
-
 ### **Software Engineer Intern**  
 **China South Publishing & Media Group Co., Ltd.**  
 _Jun 2024 – Aug 2024 | Changsha, Hunan, China_
