@@ -14,7 +14,8 @@ I'm a master computer science student at Northeastern University. I have 2 years
 - ⚡ Fun fact: jogging 1.2 ~ 2km two times per week
 
 ## My social mediums:
-[![My Skills](https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stoneshi2000/)
+
 
 
 
