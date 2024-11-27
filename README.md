@@ -1,6 +1,6 @@
 ## Portfolio
 
-Hello everyone!I'm Stone Shi, a software engineer, and a problem solver 
+Hello everyone!I'm Stone Shi, a software engineer, and a problem solver.
 
 I'm a master computer science student at Northeastern University. I have 2 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
