@@ -13,6 +13,10 @@ I'm a master computer science student at Northeastern University. I have 2 years
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jogging 1.2 ~ 2km two times per week
 
+## My social mediums:
+[![My Skills](https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev)
+
+
 
 
 
