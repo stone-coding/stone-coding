@@ -26,7 +26,7 @@ I'm a master computer science student at Northeastern University. I have 2 years
 _Sep 2024 – Jun 2026_  
 **Relevant Courses:**
 - Computer Networks
-- Operating Systems
+- Principles of Database Systems
 - Advanced Algorithms
 - Program Paradigm Design
 ---
@@ -38,9 +38,14 @@ _Aug 2018 – May 2023_
 - Data Structures and Algorithms
 - Operating Systems
 - Software Engineering
-- Principles of Database Systems
+- Compiler Desgin
+- Digital Logic Laboratory
+- Embedded Systems
 - Web Application Development
 - Discrete Math
+- Introduction to Scientific Computing
+- Introduction to Probability
+- Linear algebra
 - Object-Oriented Programming with Java
 
 
