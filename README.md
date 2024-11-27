@@ -5,7 +5,7 @@ Hello! I'm **Stone Shi**, a software engineer passionate about building scalable
 I'm a master computer science student at Northeastern University. I have 2 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
 - 🔭 I’m currently working on mastering my Leetcode skills 
-- 🌱 I’m currently learning AWS Associate SSA-C03 1019
+- 🌱 I’m currently learning AWS Associate SSA-C03 1019, Go k-v search engine
 - 👯 I’m looking to collaborate on Spring open source project
 - 🤔 I’m looking for help with finding a summer software development 2025 internship
 - 💬 Ask me about CPU/GPU, mock interviews, songs, and movies. 
