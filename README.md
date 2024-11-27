@@ -49,7 +49,7 @@ _Aug 2018 – May 2023_
 - Object-Oriented Programming with Java
 
 
-## My Work Experience:
+## My Work Experience💻:
 
 ### **Software Engineer Intern**  
 **China South Publishing & Media Group Co., Ltd.**  
@@ -91,6 +91,14 @@ _May 2022 – Aug 2022 | Wuhan, Hubei, China_
 **Skills:** Redis · Spring MVC · Spring Boot · Software Engineers
 
 ---
+
+
+## My Interests😄:
+- 🚀 **Hackathons**: Love participating in events like the Nvidia Hackathon to collaborate and innovate.  
+- 🏃‍♂️ **Fitness**: Stay active by running and walking as part of my weekly routine.  
+- 🍱 **Food Enthusiast**: Pork rolls from Wee are my go-to!  
+- 🌐 **Open Source**: Contributing to and learning from the community
+
 
 
 
