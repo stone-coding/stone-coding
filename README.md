@@ -17,7 +17,7 @@ I'm a master computer science student at Northeastern University. I have 2 years
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stoneshi2000/)
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=java,python,c#,dotnet,aws,gcp,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,dotnet,aws,gcp,react&perline=3)](https://skillicons.dev)
 
 
 
