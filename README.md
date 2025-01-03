@@ -11,7 +11,7 @@ I'm a master computer science student at Northeastern University. I have 2 years
 - 💬 Ask me about CPU/GPU, mock interviews, songs, and movies. 
 - 📫 How to reach me: stone.haomiao.shi@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: jogging 1.2 ~ 2km two times per week
+- ⚡ Fun fact: jogging 3 ~ 5km per week
 
 ## Contact Me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stoneshi2000/)
