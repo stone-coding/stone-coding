@@ -1,6 +1,6 @@
 ## Portfolio
 
-Hello! I'm **Stone Shi**, a software engineer passionate about building scalable systems and solving challenging problems. My experience spans backend development, distributed systems, and optimizing application performance.
+Hello! I'm **Sage Shi**, a software engineer passionate about building scalable systems and solving challenging problems. My experience spans backend development, distributed systems, and optimizing application performance.
 
 I'm a master computer science student at Northeastern University. I have 2 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
