@@ -9,7 +9,9 @@ I'm a master computer science student at Northeastern University. I have 2 years
 - 👯 I’m looking to collaborate on Spring open source project
 - 🤔 I’m looking for help with finding a summer software development 2025 internship
 - 💬 Ask me about CPU/GPU, mock interviews, songs, and movies. 
-- 📫 How to reach me: stone.haomiao.shi@gmail.com
+- 📫 How to reach me:
+- sageshi037@gmail.com
+- stone.haomiao.shi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jogging 3 ~ 5km per week
 
