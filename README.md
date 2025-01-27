@@ -101,7 +101,6 @@ _May 2022 – Aug 2022 | Wuhan, Hubei, China_
 - 🍱 **Food Enthusiast**: Pork rolls from Wee are my go-to!  
 - 🌐 **Open Source**: Contributing to and learning from the community
 
-![Stone's GitHub stats](https://github-readme-stats.vercel.app/api?username=stone-coding&show_icons=true&theme=radical)
 
 
 
