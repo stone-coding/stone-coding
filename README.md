@@ -57,10 +57,7 @@ _Aug 2018 – May 2023_
 **China South Publishing & Media Group Co., Ltd.**  
 _Jun 2024 – Aug 2024 | Changsha, Hunan, China_
 
-- Integrated **MongoDB** to store user comments, likes, and replies on the article publishing platform, supporting over 10,000 daily interactions and ensuring scalability for high user engagement.
-- Implemented a distributed search service using **Elasticsearch**, leveraging inverted indexing and tokenization for efficient queries, reducing average search response time from 500ms to 300ms.
-- Designed and scheduled tasks using **XXL-JOB**, including automated publishing of articles, synchronization of Redis data to MySQL, and calculation of hot articles, automating over 30 scheduled tasks monthly.
-- Developed flow-limiting components with **Redis**, implementing time window strategies for user behaviors like likes, comments, and verification code requests, reducing server load spikes by over 2,500 requests per second and ensuring system stability.
+- Contributed to the development of a news application, focusing on article publishing features for end users.
 
 **Skills:** Spring Cloud · Spring Boot · MySQL · MyBatis · Redis · XXL-JOB · Elasticsearch · MongoDB
 
@@ -71,11 +68,6 @@ _Jun 2024 – Aug 2024 | Changsha, Hunan, China_
 _Sep 2023 – May 2024 | Houston, Texas, United States_
 
 - Contributed to the development of an ETRM trading application focusing on compliance and reporting for natural gas customers.
-- Developed a compliance check feature using **.NET Core** to ensure transactions comply with **AML (Anti-Money Laundering)**, **KYC (Know Your Customer)**, and other regulatory requirements.
-- Optimized the automated compliance verification RESTful API, reducing transaction verification time from 50ms to 40ms, increasing transaction processing capacity from 200 to 240 transactions per second.
-- Implemented **RabbitMQ** to distribute compliance check tasks to multiple consumers through message queues, improving system throughput and reducing compliance verification time by 10%.
-- Integrated **Swagger** and **Apifox** to automate API documentation generation and used these tools to perform automated testing for compliance checks.
-- Updated outdated **NuGet** and **SpecFlow+** plugin installation procedures in **YouTrack**, reducing environment setup time from 30 to 20 minutes.
 
 **Skills:** .NET Framework · Microsoft SQL Server · NuGet · NUnit · RabbitMQ · SpecFlow+ · Docker · YouTrack
 
@@ -86,9 +78,6 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 _May 2022 – Aug 2022 | Wuhan, Hubei, China_
 
 - Developed and optimized an order module for a food delivery platform using **React** for the frontend and **Spring Boot** for the backend, ensuring seamless user interactions and robust backend functionality.
-- Implemented idempotence checks using anti-duplicate tokens with **Redis**, preventing duplicate submissions during order creation and improving system reliability, handling 10,000+ orders daily.
-- Created interactive dashboards using **React** and **Apache ECharts**, connected to backend APIs, to display real-time business data and advertising statistics, boosting analytics usage by 20%.
-- Enhanced data export capabilities by integrating **Apache POI** with an intuitive React UI, enabling users to generate and download business reports, processing over 500 reports per day with minimal errors.
 
 **Skills:** Redis · Spring MVC · Spring Boot · Software Engineers
 
