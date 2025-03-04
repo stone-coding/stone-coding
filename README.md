@@ -59,7 +59,7 @@ _Jun 2024 – Aug 2024 | Changsha, Hunan, China_
 
 - Contributed to the development of a news application, focusing on article publishing features for end users.
 
-**Skills:** Spring Cloud · Spring Boot · MySQL · MyBatis · Redis · XXL-JOB · Elasticsearch · MongoDB
+
 
 ---
 
@@ -69,7 +69,7 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 
 - Contributed to the development of an ETRM trading application focusing on compliance and reporting for natural gas customers.
 
-**Skills:** .NET Framework · Microsoft SQL Server · NuGet · NUnit · RabbitMQ · SpecFlow+ · Docker · YouTrack
+
 
 ---
 
@@ -79,7 +79,6 @@ _May 2022 – Aug 2022 | Wuhan, Hubei, China_
 
 - Developed and optimized an order module for a food delivery platform using **React** for the frontend and **Spring Boot** for the backend, ensuring seamless user interactions and robust backend functionality.
 
-**Skills:** Redis · Spring MVC · Spring Boot · Software Engineers
 
 ---
 
