@@ -5,12 +5,12 @@ Hello! I'm **Sage Shi**, a software engineer passionate about building scalable 
 I'm a master computer science student at Northeastern University. I have 2 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
 - 🔭 I’m currently working on mastering my Leetcode skills 
-- 🌱 I’m currently learning AWS Associate SSA-C03 1019, Go k-v search engine
+- 🌱 I’m currently learning springcloud projects
 - 👯 I’m looking to collaborate on Spring open source project
 - 🤔 I’m looking for help with finding a summer software development 2025 internship
 - 💬 Ask me about CPU/GPU, mock interviews, songs, and movies. 
 - 📫 How to reach me:
-- sageshi037@gmail.com
+- shi.haom@northeastern.edu
 - stone.haomiao.shi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jogging 3 ~ 5km per week
@@ -77,7 +77,7 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 **Puyasen**  
 _May 2022 – Aug 2022 | Wuhan, Hubei, China_
 
-- Developed and optimized an order module for a food delivery platform using **React** for the frontend and **Spring Boot** for the backend, ensuring seamless user interactions and robust backend functionality.
+- Developed and optimized an order module for a food delivery platform, ensuring seamless user interactions and robust backend functionality.
 
 
 ---
