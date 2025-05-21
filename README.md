@@ -7,7 +7,7 @@ I'm a master computer science student at Northeastern University. I have 2 years
 - 🔭 I’m currently working on mastering my Leetcode skills 
 - 🌱 I’m currently learning springcloud projects
 - 👯 I’m looking to collaborate on Spring open source project
-- 🤔 I’m looking for help with finding a summer software development 2025 internship
+- 🤔 I’m looking for help with finding a software development internship
 - 💬 Ask me about CPU/GPU, mock interviews, songs, and movies. 
 - 📫 How to reach me:
 - shi.haom@northeastern.edu
@@ -35,7 +35,7 @@ _Sep 2024 – Jun 2026_
 
 ### **Case Western Reserve University**  
 **Bachelor of Science in Computer Science**  
-_Aug 2018 – May 2023_  
+_Sep 2018 – May 2023_  
 **Relevant Courses:**
 - Data Structures and Algorithms
 - Operating Systems
@@ -53,9 +53,9 @@ _Aug 2018 – May 2023_
 
 ## My Work Experience💻:
 
-### **Software Engineer Intern**  
+### **Software Engineer Full Time Remote**  
 **China South Publishing & Media Group Co., Ltd.**  
-_Jun 2024 – Aug 2024 | Changsha, Hunan, China_
+_May 2020 – Aug 2023 | Changsha, Hunan, China_
 
 - Contributed to the development of a news application, focusing on article publishing features for end users.
 
