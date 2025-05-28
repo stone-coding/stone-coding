@@ -2,7 +2,7 @@
 
 Hello! I'm **Sage Shi**, a software engineer passionate about building scalable systems and solving challenging problems. My experience spans backend development, distributed systems, and optimizing application performance.
 
-I'm a master computer science student at Northeastern University. I have 2 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
+I'm a master computer science student at Northeastern University. I have 3 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
 - 🔭 I’m currently working on mastering my Leetcode skills 
 - 🌱 I’m currently learning springcloud projects
@@ -53,11 +53,11 @@ _Sep 2018 – May 2023_
 
 ## My Work Experience💻:
 
-### **Software Engineer Full Time Remote**  
+### **Software Engineer – Full Time, Remote**  
 **China South Publishing & Media Group Co., Ltd.**  
 _May 2020 – Aug 2023 | Changsha, Hunan, China_
 
-- Contributed to the development of a news application, focusing on article publishing features for end users.
+- Led a news application development , focusing on article publishing features for end users.
 
 
 
@@ -74,10 +74,10 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 ---
 
 ### **Software Engineer Intern**  
-**Puyasen**  
-_May 2022 – Aug 2022 | Wuhan, Hubei, China_
+**YouthCourses Inc**  
+_June 2024 – Aug 2024 | Beijing, China_
 
-- Developed and optimized an order module for a food delivery platform, ensuring seamless user interactions and robust backend functionality.
+- Contributed to the backend microservices for an online education platform supporting to over daily learners.
 
 
 ---
