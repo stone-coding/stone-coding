@@ -74,7 +74,7 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 ---
 
 ### **Software Engineer Intern**  
-**YouthCourses Inc**  
+**ForgeCourse Inc**  
 _June 2024 – Aug 2024 | Beijing, China_
 
 - Contributed to the backend microservices for an online education platform supporting to over daily learners.
