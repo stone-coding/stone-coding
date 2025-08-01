@@ -12,6 +12,7 @@ I'm a master computer science student at Northeastern University. I have 3 years
 - 📫 How to reach me:
 - shi.haom@northeastern.edu
 - stone.haomiao.shi@gmail.com
+- https://haomiaoshi.com/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jogging 3 ~ 5km per week
 
