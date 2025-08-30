@@ -54,12 +54,11 @@ _Sep 2018 – May 2023_
 
 ## My Work Experience💻:
 
-### **Software Engineer – Full Time, Remote**  
-**China South Publishing & Media Group Co., Ltd.**  
-_May 2020 – Aug 2023 | Changsha, Hunan, China_
+### **Software Engineer Intern**  
+**DeepThink Health,Inc**  
+_June 2024 – Present | San Ramon, California, United States_
 
-- Led a news application development , focusing on article publishing features for end users.
-
+- Contributed to health diagonsis platform.
 
 
 ---
@@ -74,14 +73,19 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 
 ---
 
-### **Software Engineer Intern**  
-**ForgeCourse Inc**  
-_June 2024 – Aug 2024 | Beijing, China_
 
-- Contributed to the backend microservices for an online education platform supporting to over daily learners.
+### **Software Engineer – Full Time, Remote**  
+**China South Publishing & Media Group Co., Ltd.**  
+_May 2020 – Aug 2023 | Changsha, Hunan, China_
+
+- Led a news application development , focusing on article publishing features for end users.
+
 
 
 ---
+
+
+
 
 
 ## My Interests😄:
