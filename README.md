@@ -26,7 +26,7 @@ I'm a master computer science student at Northeastern University. I have 3 years
 ## My education🎓:
 ### **Northeastern University**
 **Master of Science in Computer Science**  
-_Sep 2024 – Jun 2026_  
+_Sep 2024 – Dec 2027_  
 **Relevant Courses:**
 - Computer Networks
 - Principles of Database Systems
