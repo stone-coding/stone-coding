@@ -60,6 +60,14 @@ _July 2025 – Present | San Ramon, California, United States_
 
 - Contributed to health diagonsis platform.
 
+---
+
+### **Software Engineer – Intern**  
+**Springer Capital**  
+_May 2025 – Aug 2025 | Chicago, Illinois, United States_
+
+- Developed  microservices supporting the firm’s real estate investment analytics platform, aggregating property
+financials, occupancy data, rental histories, and market comparables for 1000+ investment clients across North America.
 
 ---
 
@@ -74,15 +82,7 @@ _Sep 2023 – May 2024 | Houston, Texas, United States_
 ---
 
 
-### **Software Engineer – Full Time, Remote**  
-**China South Publishing & Media Group Co., Ltd.**  
-_May 2020 – Aug 2023 | Changsha, Hunan, China_
 
-- Led a news application development , focusing on article publishing features for end users.
-
-
-
----
 
 
 
