@@ -56,7 +56,7 @@ _Sep 2018 – May 2023_
 
 ### **Software Engineer Intern**  
 **DeepThink Health,Inc**  
-_July 2025 – Present | San Ramon, California, United States_
+_Sep 2025 – Dec 2025 | San Ramon, California, United States_
 
 - Contributed to health diagonsis platform.
 
