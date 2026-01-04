@@ -1,8 +1,8 @@
 ## Portfolio
 
-Hello! I'm **Sage Shi**, a software engineer passionate about building scalable systems and solving challenging problems. My experience spans backend development, distributed systems, and optimizing application performance.
+Hello! I'm **Haomiao Shi**, a software engineer passionate about building scalable systems and solving challenging problems. My experience spans backend development, distributed systems, and optimizing application performance.
 
-I'm a master computer science student at Northeastern University. I have 3 years of experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
+I'm a master computer science student at Northeastern University. I have experience in designing, implementing, developing, and deploying software. I am a Passionate about CPUs, distribute system, and software development.
 
 - 🔭 I’m currently working on mastering my Leetcode skills 
 - 🌱 I’m currently learning springcloud projects
@@ -12,7 +12,6 @@ I'm a master computer science student at Northeastern University. I have 3 years
 - 📫 How to reach me:
 - shi.haom@northeastern.edu
 - stone.haomiao.shi@gmail.com
-- https://haomiaoshi.com/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jogging 3 ~ 5km per week
 
@@ -62,14 +61,6 @@ _Sep 2025 – Dec 2025 | San Ramon, California, United States_
 
 ---
 
-### **Software Engineer – Intern**  
-**Springer Capital**  
-_May 2025 – Aug 2025 | Chicago, Illinois, United States_
-
-- Developed  microservices supporting the firm’s real estate investment analytics platform, aggregating property
-financials, occupancy data, rental histories, and market comparables for 1000+ investment clients across North America.
-
----
 
 ### **Software Engineer Intern**  
 **Enuit LLC**  
