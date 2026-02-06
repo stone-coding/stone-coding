@@ -1,6 +1,6 @@
 # Haomiao Shi
 
-Master’s student in Computer Science at University of Illinois Urbana-Champaign
+Master’s student in Computer Science at NEU
 
 Interested in backend systems, distributed systems, and applied machine learning.
 
